@@ -1,0 +1,13 @@
+D:\dgrewal\Documents\My Projects\SITPA\OpenFilesGUI\OpenFilesGUI\bin\Debug\OpenFilesGUI.exe.config
+D:\dgrewal\Documents\My Projects\SITPA\OpenFilesGUI\OpenFilesGUI\bin\Debug\OpenFilesGUI.exe
+D:\dgrewal\Documents\My Projects\SITPA\OpenFilesGUI\OpenFilesGUI\bin\Debug\OpenFilesGUI.pdb
+D:\dgrewal\Documents\My Projects\SITPA\OpenFilesGUI\OpenFilesGUI\bin\Debug\OpenFilesGUI.xml
+D:\dgrewal\Documents\My Projects\SITPA\OpenFilesGUI\OpenFilesGUI\obj\Debug\OpenFilesGUI.vbprojResolveAssemblyReference.cache
+D:\dgrewal\Documents\My Projects\SITPA\OpenFilesGUI\OpenFilesGUI\obj\Debug\OpenFilesGUI.frmMain.resources
+D:\dgrewal\Documents\My Projects\SITPA\OpenFilesGUI\OpenFilesGUI\obj\Debug\OpenFilesGUI.Resources.resources
+D:\dgrewal\Documents\My Projects\SITPA\OpenFilesGUI\OpenFilesGUI\obj\Debug\OpenFilesGUI.vbproj.GenerateResource.Cache
+D:\dgrewal\Documents\My Projects\SITPA\OpenFilesGUI\OpenFilesGUI\obj\Debug\OpenFilesGUI.exe
+D:\dgrewal\Documents\My Projects\SITPA\OpenFilesGUI\OpenFilesGUI\obj\Debug\OpenFilesGUI.xml
+D:\dgrewal\Documents\My Projects\SITPA\OpenFilesGUI\OpenFilesGUI\obj\Debug\OpenFilesGUI.pdb
+D:\dgrewal\Documents\My Projects\SITPA\OpenFilesGUI\OpenFilesGUI\bin\Debug\Open Files Slasher.exe.config
+D:\dgrewal\Documents\My Projects\SITPA\OpenFilesGUI\OpenFilesGUI\obj\Debug\Open Files Slasher.xml

@@ -1,0 +1,11 @@
+D:\dgrewal\Documents\My Projects\SITPA\OpenFilesGUI\OpenFilesGUI\bin\Release\Open Files Slasher.exe.config
+D:\dgrewal\Documents\My Projects\SITPA\OpenFilesGUI\OpenFilesGUI\bin\Release\Open Files Slasher.exe
+D:\dgrewal\Documents\My Projects\SITPA\OpenFilesGUI\OpenFilesGUI\bin\Release\Open Files Slasher.pdb
+D:\dgrewal\Documents\My Projects\SITPA\OpenFilesGUI\OpenFilesGUI\bin\Release\Open Files Slasher.xml
+D:\dgrewal\Documents\My Projects\SITPA\OpenFilesGUI\OpenFilesGUI\obj\Release\OpenFilesSlasher.frmMain.resources
+D:\dgrewal\Documents\My Projects\SITPA\OpenFilesGUI\OpenFilesGUI\obj\Release\OpenFilesSlasher.Resources.resources
+D:\dgrewal\Documents\My Projects\SITPA\OpenFilesGUI\OpenFilesGUI\obj\Release\OpenFilesSlasher.vbproj.GenerateResource.Cache
+D:\dgrewal\Documents\My Projects\SITPA\OpenFilesGUI\OpenFilesGUI\obj\Release\Open Files Slasher.exe
+D:\dgrewal\Documents\My Projects\SITPA\OpenFilesGUI\OpenFilesGUI\obj\Release\Open Files Slasher.xml
+D:\dgrewal\Documents\My Projects\SITPA\OpenFilesGUI\OpenFilesGUI\obj\Release\Open Files Slasher.pdb
+D:\dgrewal\Documents\My Projects\SITPA\OpenFilesGUI\OpenFilesGUI\obj\Release\OpenFilesSlasher.vbprojResolveAssemblyReference.cache
